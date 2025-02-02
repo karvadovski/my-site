@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+  <meta charset="UTF-8">
+  <title> Cats </title>
+ </head> 
+  <body>
+   <h1> I love Cats! </h1>
+    <br>
+   <h2> Here is the Best cats with memes:3 </h2>
+
+   <h3> Confused cat </h3>
+       <a href="https://www.tiktok.com/@huhcat_daily4/video/7371505748771179796?is_from_webapp=1&sender_device=pc"><img src="./cats/confused cat.jpg"></a>
+       <br>
+   <h3> Suspicious  cat </h3>
+      <a href="https://media.tenor.com/B1pB8zJBiSIAAAPo/eating-cat-suspicious.mp4"> <img src="./cats/suspisious cat.png"> </a>
+      <br>
+   <h3> OII cat </h3>
+     <a href="https://youtu.be/iYZkBxByo14"> <img src="./cats/oii cat.jpg"></a>
+     <br>
+   <h3> Maxwell cat </h3>
+     <a href="https://youtu.be/U2Fjfqm-7g8"><img src="./cats/spining cat.jpg"></a>
+     <br>
+   <h3> Happy cat </h3>
+     <a href="https://youtu.be/KN3IemyqJJw"><img src="./cats/happy cat.jpg"></a>
+      <br>   
+         
+ </body>   
+
+</html>    
